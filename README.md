@@ -6,6 +6,8 @@
 
 ***Note:** In the files archive files(.zip) are also provided for individual downloads.*
 
+**Kaggle Dataset:** [https://www.kaggle.com/datasets/meet1265/gujarati-handwritten-characters-dataset](https://www.kaggle.com/datasets/meet1265/gujarati-handwritten-characters-dataset)
+
 ## Box Distribution
 ```python
 label_dict = {
