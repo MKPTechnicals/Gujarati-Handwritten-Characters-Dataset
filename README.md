@@ -1,0 +1,1 @@
+# Gujarati-Handwritten-Characters-Dataset
