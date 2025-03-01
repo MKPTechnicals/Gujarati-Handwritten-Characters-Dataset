@@ -8,6 +8,8 @@
 
 **Kaggle Dataset:** [https://www.kaggle.com/datasets/meet1265/gujarati-handwritten-characters-dataset](https://www.kaggle.com/datasets/meet1265/gujarati-handwritten-characters-dataset)
 
+**Huggingface Dataset:** [https://huggingface.co/datasets/Meet1265/Gujarati-Handwritten-Characters-Dataset](https://huggingface.co/datasets/Meet1265/Gujarati-Handwritten-Characters-Dataset)
+
 ## Box Distribution
 ```python
 label_dict = {
